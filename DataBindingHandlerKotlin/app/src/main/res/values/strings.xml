@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">DataBindingリスナ登録</string>
+	<string name="tv_lb_height">縦の長さ: </string>
+	<string name="tv_lb_width">横の長さ: </string>
+	<string name="tv_lb_area">面積: </string>
+	<string name="btn_label">再表示</string>
+</resources>
